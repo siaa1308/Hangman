@@ -4,6 +4,8 @@ An AI-powered Hangman solver that attempts to guess hidden words using probabili
 
 This project was originally inspired by exploring how machine learning and search strategies can be applied to a classic word game. Rather than focusing on building a traditional playable Hangman game, the goal was to build an **AI agent capable of solving Hangman puzzles autonomously**.
 
+<img width="1460" height="793" alt="Screenshot 2026-06-15 at 11 51 17 AM" src="https://github.com/user-attachments/assets/e9fd5ed3-5083-44b0-89e5-0ce6cdbc833b" />
+
 ---
 
 # 🚀 Project Goal
@@ -126,20 +128,6 @@ Purpose:
 
 ---
 
-## test.txt
-
-A separate evaluation dataset.
-
-Purpose:
-
-* Measuring solver performance
-* Benchmarking improvements
-* Testing generalization on unseen words
-
-The test set is intentionally separated from the main corpus to provide a more realistic evaluation environment.
-
----
-
 # 🖥️ User Interface
 
 The project includes an interactive Streamlit interface that allows users to:
@@ -150,26 +138,6 @@ The project includes an interactive Streamlit interface that allows users to:
 * Track wrong guesses
 * Monitor remaining lives
 * Observe the solver's reasoning process
-
----
-
-# 📸 Screenshots
-
-## Main Interface
-
-(Add screenshot here)
-
----
-
-## Solving Process
-
-(Add screenshot here)
-
----
-
-## Final Result
-
-(Add screenshot here)
 
 ---
 
@@ -213,33 +181,4 @@ The application will automatically open in your browser.
 * Streamlit
 * NumPy
 * Pandas
-
-### Concepts Used
-
-* Candidate Filtering
-* Entropy-Based Search
-* Probabilistic Letter Selection
-* Pattern Matching
-* Information Gain
-* Search Space Reduction
-
----
-
-# 📈 Future Improvements
-
-Potential future enhancements include:
-
-* Hidden Markov Models (HMM)
-* N-Gram Language Models
-* Reinforcement Learning
-* Neural Network Letter Prediction
-* Candidate Probability Ranking
-* Performance Benchmark Dashboard
-
----
-
-# 👨‍💻 Author
-
-Sia
-
-Built as an exploration of AI reasoning, search strategies, and probabilistic decision making through the classic Hangman problem.
+<img width="1463" height="788" alt="Screenshot 2026-06-15 at 11 50 56 AM" src="https://github.com/user-attachments/assets/4c77b962-79f6-4cde-ad16-75c1cfe5883c" />
