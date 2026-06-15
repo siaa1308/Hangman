@@ -181,4 +181,3 @@ The application will automatically open in your browser.
 * Streamlit
 * NumPy
 * Pandas
-<img width="1463" height="788" alt="Screenshot 2026-06-15 at 11 50 56 AM" src="https://github.com/user-attachments/assets/4c77b962-79f6-4cde-ad16-75c1cfe5883c" />
