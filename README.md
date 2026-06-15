@@ -1,4 +1,4 @@
-# 🎯 Hangman AI Solver
+# Hangman AI Solver
 
 An AI-powered Hangman solver that attempts to guess hidden words using probabilistic reasoning, candidate word filtering, and information-gain based letter selection.
 
