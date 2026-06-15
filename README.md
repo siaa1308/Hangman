@@ -8,7 +8,7 @@ This project was originally inspired by exploring how machine learning and searc
 
 ---
 
-# 🚀 Project Goal
+# Project Goal
 
 The objective of this project is not to achieve perfect Hangman performance.
 
@@ -24,7 +24,7 @@ The solver continuously narrows down possible words and selects letters that max
 
 ---
 
-# 🧠 How It Works
+# How It Works
 
 The solver follows a multi-step reasoning process:
 
@@ -69,7 +69,7 @@ The process repeats until:
 
 ---
 
-# 📊 Why Isn't The Accuracy Higher?
+# Why Isn't The Accuracy Higher?
 
 A common question is:
 
@@ -111,7 +111,7 @@ The focus of this project is the reasoning process rather than perfect performan
 
 ---
 
-# 📁 Dataset Files
+# Dataset Files
 
 ## corpus.txt
 
@@ -128,7 +128,7 @@ Purpose:
 
 ---
 
-# 🖥️ User Interface
+# User Interface
 
 The project includes an interactive Streamlit interface that allows users to:
 
@@ -141,7 +141,7 @@ The project includes an interactive Streamlit interface that allows users to:
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 Clone the repository:
 
@@ -158,7 +158,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Running The Application
+# Running The Application
 
 Launch the Streamlit interface:
 
@@ -170,7 +170,7 @@ The application will automatically open in your browser.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### Language
 
